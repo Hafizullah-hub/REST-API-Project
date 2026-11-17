@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Full-Stack Node.js",
+    "description": "Learn Express and REST APIs",
+    "target_date": "2026-12-31",
+    "status": "Completed",
+    "created_at": "2026-11-17T04:08:29.840Z"
+  },
+  {
+    "id": 2,
+    "name": "Firebase",
+    "description": "Database",
+    "target_date": "2027-01-19",
+    "status": "In Progress",
+    "created_at": "2026-11-17T06:01:15.522Z"
+  }
+]
